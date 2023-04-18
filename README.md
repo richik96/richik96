@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @richik96
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on Devops
+- 👋 Hi, I’m Richik Dutta
+- 👀 I’m interested in Devops, Software developement
+- 🌱 I’m currently trying grasp backend developement
+- 💞️ I’m looking to collaborate on developement projects
 - 📫 How to reach me drichik@gmail.com
 
 <!---
