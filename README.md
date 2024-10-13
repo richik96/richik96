@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Richik Dutta
-- 👀 I’m interested in Devops, Software developement
-- 🌱 I’m currently trying grasp backend developement
-- 💞️ I’m looking to collaborate on developement projects
-- 📫 How to reach me drichik@gmail.com
+- 👀 I'm a JAVA, SpringBoot developer
+- 🌱 I’m currently working on few backend projects
+- 💞️ I'd love to collaborate on springboot developement projects
+- 📫 How to reach me--> drichik@gmail.com
+- ♾️ Please reach out for any enaging activity related to Backend developement
 
 <!---
 richik96/richik96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
