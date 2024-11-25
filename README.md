@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Richik Dutta
-- 👀 I'm a JAVA, SpringBoot developer
+- 👀 Experienced in JAVA, SpringBoot backend developement
 - 🌱 I’m currently working on few backend projects
-- 💞️ I'd love to collaborate on springboot developement projects
-- 📫 How to reach me--> drichik@gmail.com
+- 💞️ I'd love to collaborate/freelance on springboot developement projects
+- 📫 How to reach me --> drichik@gmail.com
 - ♾️ Please reach out for any enaging activity related to Backend developement
 
 <!---
