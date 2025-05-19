@@ -47,7 +47,7 @@ To create backend systems that are **robust**, **scalable**, and **maintainable*
 
 ## 📈 Projects
 
-### 1. **[Project Name]**
+### 1. **Hotel-Management-Console**
 - **Description**: Brief description of the project (e.g., A real-time chat application for seamless user communication.)
 - **Tech Stack**: [Java, Spring Boot, Microservices]
 - **Key Features**:
@@ -55,8 +55,7 @@ To create backend systems that are **robust**, **scalable**, and **maintainable*
   - Scalable architecture with Redis caching.
 - [Repository Link](https://github.com/richik96/Hotel-MicroService)
 
-### 2. **[Project Name]**
-- **Description**: [Brief description.]
+### 2. **Microservices**
 - **Tech Stack**: [Java, Spring Boot, Kafka]
 - **Key Features**:
   - Event-driven architecture with Kafka.
